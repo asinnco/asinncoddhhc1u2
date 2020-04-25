@@ -230,6 +230,13 @@ body
    margin: 0;
    text-align: center;
 }
+#wb_FlexContainer2
+{
+   background-color: #FFD700;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+}
 #FlexContainer2
 {
    display: -webkit-flex;
@@ -250,9 +257,6 @@ body
    margin-right: auto;
    margin-left: auto;
    max-width: 1140px;
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #CCCCCC;
    box-sizing: border-box;
    font-size: 0px;
 }
@@ -401,6 +405,11 @@ body
    font-weight: normal;
    font-size: 13px;
 }
+#Card2-card-item2 a
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
 #wb_Card3
 {
    display: -webkit-flex;
@@ -472,6 +481,11 @@ body
    font-family: Arial;
    font-weight: normal;
    font-size: 13px;
+}
+#Card3-card-item2 a
+{
+   color: #FFFFFF;
+   text-decoration: none;
 }
 #wb_LayoutGrid4
 {
@@ -554,6 +568,13 @@ body
    margin: 20px 0px 20px 0px;
    padding: 0;
 }
+#wb_FlexContainer1
+{
+   background-color: #FFD700;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+}
 #FlexContainer1
 {
    display: -webkit-flex;
@@ -574,9 +595,6 @@ body
    margin-right: auto;
    margin-left: auto;
    max-width: 1140px;
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #CCCCCC;
    box-sizing: border-box;
    font-size: 0px;
 }
@@ -628,11 +646,11 @@ body
 #Card4-card-item1
 {
    box-sizing: border-box;
-   margin: 20px 20px 20px 20px;
+   margin: 10px 10px 10px 10px;
    color: #4F4F4F;
    font-family: Arial;
    font-weight: normal;
-   font-size: 15px;
+   font-size: 13px;
 }
 #Card4-card-item2
 {
@@ -651,6 +669,11 @@ body
    font-family: Arial;
    font-weight: normal;
    font-size: 13px;
+}
+#Card4-card-item2 a
+{
+   color: #FFFFFF;
+   text-decoration: none;
 }
 #wb_Card5
 {
@@ -719,6 +742,11 @@ body
    font-family: Arial;
    font-weight: normal;
    font-size: 13px;
+}
+#Card5-card-item2 a
+{
+   color: #FFFFFF;
+   text-decoration: none;
 }
 #wb_Card6
 {
@@ -791,6 +819,11 @@ body
    font-family: Arial;
    font-weight: normal;
    font-size: 13px;
+}
+#Card6-card-item2 a
+{
+   color: #FFFFFF;
+   text-decoration: none;
 }
 #wb_LayoutGrid6
 {
