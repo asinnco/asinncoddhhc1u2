@@ -1534,7 +1534,7 @@ body
 }
 #wb_Card1
 {
-   width: 141px;
+   width: 293px;
    height: 362px;
    visibility: visible;
    display: flex;
@@ -1615,7 +1615,7 @@ body
    box-sizing: border-box;
    position: absolute;
    bottom: 1px;
-   width: 137px;
+   width: 289px;
    border-top: 1px solid #006400;
    border-radius: 0 0 3px 3px;
    margin: 0;
@@ -2000,8 +2000,8 @@ body
 }
 #wb_YouTube1
 {
-   width: 445px;
-   height: 194px;
+   width: 173px;
+   height: 126px;
    visibility: visible;
    display: inline-block;
    margin: 0;
@@ -2059,7 +2059,7 @@ body
 #wb_Card1
 {
    width: 141px;
-   height: 362px;
+   height: 430px;
    visibility: visible;
    display: flex;
    color: #FFFFFF;
