@@ -24,4 +24,14 @@
          header: 'h3',
          heightStyle: 'content'
       });
+      $("#Accordion1").data("height", $("#Accordion1").outerWidth());
+      $(window).resize(function()
+      {
+         if ($("#Accordion1").data("height") != $("#Accordion1").outerWidth())
+         {
+            $("#Accordion1").accordion("refresh");
+            $("#Accordion1").data("height", $("#Accordion1").outerWidth());
+         }
+      });
+      $("#wb_ResponsiveMenu1").affix({offset:{top: $("#wb_ResponsiveMenu1").offset().top}});
    });
