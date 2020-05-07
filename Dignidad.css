@@ -102,7 +102,7 @@ body
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #FFA500;
+   background-color: #32CD32;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -258,27 +258,6 @@ body
    padding: 0;
    opacity: 0.00;
 }
-#wb_Text1 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   text-align: center;
-}
-#wb_Text1
-{
-   font-family: Arial;
-   font-weight: normal;
-   font-size: 48px;
-   line-height: 56px;
-}
-#wb_Text1 div
-{
-   text-align: center;
-   white-space: nowrap;
-}
 #wb_LayoutGrid4
 {
    clear: both;
@@ -374,7 +353,7 @@ body
    display: table;
    text-align: center;
    width: 100%;
-   background-color: transparent;
+   background-color: #32CD32;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -792,7 +771,7 @@ body
 }
 #wb_ResponsiveMenu1
 {
-   background-color: rgba(66,66,66,1.00);
+   background-color: rgba(50,205,50,1.00);
    display: block;
    font-family: Arial;
    font-weight: normal;
@@ -801,7 +780,7 @@ body
 }
 #ResponsiveMenu1
 {
-   background-color: #424242;
+   background-color: #32CD32;
    display: inline-block;
    height: 45px;
 }
@@ -820,7 +799,7 @@ body
 }
 #wb_ResponsiveMenu1 ul li
 {
-   background-color: #424242;
+   background-color: #32CD32;
    display: list-item;
    float: left;
    list-style: none;
@@ -967,7 +946,7 @@ body
 #wb_ResponsiveMenu1 .toggle 
 {
    display: block;
-   background-color: #424242;
+   background-color: #32CD32;
    color: #FFFFFF;
    padding: 0px 20px 0px 20px;
    line-height: 33px;
@@ -1084,6 +1063,27 @@ body
 { 
    border-top-color: #424242;
 }
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 37px;
+   line-height: 44px;
+}
+#wb_Text1 div
+{
+   text-align: center;
+   white-space: nowrap;
 }
 #wb_YouTube1
 {
@@ -1252,7 +1252,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: #FFA500;
+   background-color: #32CD32;
    background-image: none;
 }
 #wb_LayoutGrid2
@@ -1347,28 +1347,6 @@ body
    border-color: #A0A0A0;
    border-bottom-width: 20px;
 }
-#wb_Text1
-{
-   visibility: visible;
-   display: block;
-   font-size: 8px;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   text-decoration: none;
-   background-color: transparent;
-   background-image: none;
-}
-#wb_Text1
-{
-   font-family: Arial;
-   font-weight: normal;
-   font-size: 48px;
-   margin: 0;
-   padding: 0;
-   text-align: center;
-   line-height: 56px;
-}
 #wb_LayoutGrid4
 {
    visibility: visible;
@@ -1447,7 +1425,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: transparent;
+   background-color: #32CD32;
    background-image: none;
 }
 #wb_LayoutGrid5
@@ -1682,6 +1660,28 @@ body
    margin: 0;
    text-align: center;
 }
+#wb_Text1
+{
+   visibility: visible;
+   display: block;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text1
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 37px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 44px;
+}
 }
 @media only screen and (max-width: 767px)
 {
@@ -1778,7 +1778,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: #FFA500;
+   background-color: #32CD32;
    background-image: none;
 }
 #wb_LayoutGrid2
@@ -1873,28 +1873,6 @@ body
    border-color: #A0A0A0;
    border-bottom-width: 20px;
 }
-#wb_Text1
-{
-   visibility: visible;
-   display: block;
-   font-size: 8px;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   text-decoration: none;
-   background-color: transparent;
-   background-image: none;
-}
-#wb_Text1
-{
-   font-family: Arial;
-   font-weight: normal;
-   font-size: 48px;
-   margin: 0;
-   padding: 0;
-   text-align: center;
-   line-height: 56px;
-}
 #wb_LayoutGrid4
 {
    visibility: visible;
@@ -1973,7 +1951,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: transparent;
+   background-color: #32CD32;
    background-image: none;
 }
 #wb_LayoutGrid5
@@ -2227,5 +2205,27 @@ body
    display: inline;
    margin: 0;
    text-align: center;
+}
+#wb_Text1
+{
+   visibility: visible;
+   display: block;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text1
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 37px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 44px;
 }
 }

@@ -96,7 +96,7 @@ body
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #FFA500;
+   background-color: #90EE90;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -368,7 +368,7 @@ body
    display: table;
    text-align: center;
    width: 100%;
-   background-color: transparent;
+   background-color: #32CD32;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -786,7 +786,7 @@ body
 }
 #wb_ResponsiveMenu1
 {
-   background-color: rgba(66,66,66,1.00);
+   background-color: rgba(50,205,50,1.00);
    display: block;
    font-family: Arial;
    font-weight: normal;
@@ -795,7 +795,7 @@ body
 }
 #ResponsiveMenu1
 {
-   background-color: #424242;
+   background-color: #32CD32;
    display: inline-block;
    height: 45px;
 }
@@ -814,7 +814,7 @@ body
 }
 #wb_ResponsiveMenu1 ul li
 {
-   background-color: #424242;
+   background-color: #32CD32;
    display: list-item;
    float: left;
    list-style: none;
@@ -961,7 +961,7 @@ body
 #wb_ResponsiveMenu1 .toggle 
 {
    display: block;
-   background-color: #424242;
+   background-color: #32CD32;
    color: #FFFFFF;
    padding: 0px 20px 0px 20px;
    line-height: 33px;
@@ -1245,7 +1245,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: #FFA500;
+   background-color: #90EE90;
    background-image: none;
 }
 #wb_LayoutGrid2
@@ -1440,7 +1440,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: transparent;
+   background-color: #32CD32;
    background-image: none;
 }
 #wb_LayoutGrid5
@@ -1771,7 +1771,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: #FFA500;
+   background-color: #90EE90;
    background-image: none;
 }
 #wb_LayoutGrid2
@@ -1966,7 +1966,7 @@ body
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   background-color: transparent;
+   background-color: #32CD32;
    background-image: none;
 }
 #wb_LayoutGrid5
